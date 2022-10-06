@@ -1,2 +1,2 @@
 # my-powerbi-visualizations
-Power BI Dashboards etc.
+Power BI Dashboards and reports
